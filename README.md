@@ -104,7 +104,7 @@ What shipped across `v1.0.2` → `v1.0.6`:
 ![Harmony](https://img.shields.io/badge/Harmony-FF7A18?style=for-the-badge)
 ![TABModLoader](https://img.shields.io/badge/TABModLoader-0D0D0D?style=for-the-badge)
 
-**Front-end & scripting**
+**顺手会写的**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
