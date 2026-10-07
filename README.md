@@ -43,6 +43,31 @@
 
 ---
 
+<!-- ── 3.5 游戏喜好：数据来自本机 Steam 游玩时长记录（排除成人向作品 / 壁纸软件 / Demo） ── -->
+### 🕹️ 我在玩什么
+
+<a href="https://steamcommunity.com/profiles/76561198374394294/"><img src="https://img.shields.io/badge/Steam-timrchen-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+
+**🗡️ 单机大作 / 开放世界** — The Witcher 3（198h，白狼永远的神）· Black Myth: Wukong（88h）· GTA V · Far Cry 3 / 4 / 5 / 6 · Watch Dogs 1 / 2 · Rise of the Tomb Raider
+
+**🔫 硬核射击** — Call of Duty 系列 · Counter-Strike 2（61h）· PUBG · Arma 3 · DOOM · **Crysis 全家桶**（1 / 2 / 3 / Warhead 一部不落，2018 年还写过评测）
+
+**🧟 生存 & 恐怖** — Dying Light · Resident Evil 2 / 3 · Metro 2033 / Last Light / Exodus · SCP: Secret Laboratory
+
+**🏍️ 摩托 & 竞速** — RIDE 3（33h）· Forza Horizon 5 ← 现实里也骑橙色摩托
+
+**🧠 策略 & 潜行** — Shadow Tactics: Blades of the Shogun（32h）· Cities: Skylines
+
+**🎬 剧情向** — A Plague Tale: Innocence · Hellblade: Senua's Sacrifice · Quantum Break · Detroit: Become Human
+
+**👫 双人局** — It Takes Two · Overcooked! All You Can Eat
+
+**🛠️ 正在折腾的游戏** — They Are Billions（忍不住给它写了 Mod → [TABCheats](https://github.com/TimRChen/TABCheats)）· Dust Front RTS（在给它做汉化 → [dust-front-rts-zh](https://github.com/TimRChen/dust-front-rts-zh)）
+
+<sub>Steam 库里 49 款游戏，有记录的游玩时长约 980 小时。</sub>
+
+---
+
 ### 🎮 Mods & Localization
 
 **TABCheats** — in-game cheat/utility mod for *They Are Billions*. It hooks the game through **TABModLoader + Harmony**, so it plays nicely alongside **TABHelper**; the cheat itself stays **off by default** until you turn it on.
